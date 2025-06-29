@@ -63,10 +63,6 @@ Selected the following features for training:
 
 - **Mean Squared Error (MSE)**
 - **R² Score**
-- **Accuracy (%):**  
-  \[
-  \text{Accuracy} = R^2 \times 100 \approx 89.50\%
-  \]
 
 ---
 
